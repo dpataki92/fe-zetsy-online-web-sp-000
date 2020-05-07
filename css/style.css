@@ -18,12 +18,13 @@ body {
 	width: 960px;
 	background: #fff;
 	padding: 0 45px 20px;
-	position: absolute;
-	left: 25%;
-	top: 0;
 }
 
 /* Write all remaining styles here */
+div {
+	display: block;
+}
+
 h1 {
 	font-weight: bold;
 	font-size: 4.0em;
