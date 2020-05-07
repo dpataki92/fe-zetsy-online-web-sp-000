@@ -44,3 +44,7 @@ h1, h2 {
 .pressimg {
 	border: 3px solid #ccc;
 }
+
+footer {
+	text-align: right;
+}
