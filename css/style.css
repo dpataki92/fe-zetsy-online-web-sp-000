@@ -33,3 +33,7 @@ h1 {
 #necklace {
 	border: 10px solid #CED9EB;
 }
+
+span {
+	font-weight: bold;
+}
