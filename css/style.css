@@ -21,13 +21,14 @@ body {
 }
 
 /* Write all remaining styles here */
-div {
-	display: block;
-}
 
 h1 {
-	font-weight: bold;
-	font-size: 4.0em;
+	font-weight: normal;
+	font-size: 4.5em;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #ccc;
+	font-family: 'Baskerville';
+	margin: 0 0 5px;
 }
 
 #necklace {
@@ -44,6 +45,10 @@ h1, h2 {
 
 .pressimg {
 	border: 3px solid #ccc;
+}
+
+.pressimg:hover {
+	border: 5px rgb(111,127,122) solid;
 }
 
 footer {
