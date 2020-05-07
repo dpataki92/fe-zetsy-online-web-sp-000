@@ -19,8 +19,7 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
-	display: table-cell;
-	vertical-align: middle;
+	display: inline-block;
 }
 
 /* Write all remaining styles here */
