@@ -17,8 +17,9 @@ body {
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
-	background:rgb(242, 239, 214);
+	background: #fff;
 	padding: 0 45px 20px;
+	display: flex;
 }
 
 /* Write all remaining styles here */
