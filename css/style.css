@@ -16,7 +16,6 @@ body {
 
 .wrapper {
 	width: 960px;
-
 	background: #fff;
 	padding: 0 45px 20px;
 	position: absolute;
@@ -31,5 +30,9 @@ h1 {
 }
 
 #necklace {
-	border: 5px solid #CED9EB;
+	border: 5px solid #CEDEE1;
+}
+
+h1, h2 {
+	color: #CEDEE1;
 }
