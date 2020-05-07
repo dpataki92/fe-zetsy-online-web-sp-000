@@ -20,6 +20,7 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 	display: flex;
+	justify-content: center;
 }
 
 /* Write all remaining styles here */
