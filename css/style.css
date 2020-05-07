@@ -30,9 +30,13 @@ h1 {
 }
 
 #necklace {
-	border: 5px solid rgb(111,127,122);
+	border: 5px solid rgb(152,173,166);
 }
 
 h1, h2 {
 	color: rgb(111,127,122);
+}
+
+.pressimg {
+	border: 3px solid #ccc;
 }
